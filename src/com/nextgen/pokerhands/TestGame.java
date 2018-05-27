@@ -8,7 +8,7 @@ import java.util.List;
  import static org.junit.Assert.*;
 import org.junit.Test;
 
-
+//Poker hands game
 public class TestGame {
 /*
 	Black: 2H 3D 5S 9C KD  White: 2C 3H 4S 8C AH
