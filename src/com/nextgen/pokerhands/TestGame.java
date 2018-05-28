@@ -19,7 +19,7 @@ public class TestGame {
 	White wins. - with high card: Ace 
 	Black wins. - with full house: 4 over 2 
 	Black wins. - with high card: 9
-	Tie.
+	Tie  .
 	
 	*/
 	
